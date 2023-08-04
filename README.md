@@ -1,7 +1,9 @@
 # PEP_textbook_download
-这是一个用于人教社课本下载的项目。This is a program used in textbooks pep download.
+这是一个用于人教社课本下载的项目。  
+This is a program used in textbooks pep download.  
 
-**语言：简体中文 language:Simplified Chinese**
+**语言：简体中文   
+language:Simplified Chinese**  
 ## How to use?如何使用？（此处以下载九下化学课本为例）
 **（需要搭配浏览器自带的DEV tools完成操作 Complete the operation with the DEV tools provided with the browser）**   
 1.打开以下网站 https://jc.pep.com.cn/  
@@ -26,7 +28,8 @@ The ID, check code ("校验码"), etc. are shown in the figure
 Open the program, enter the corresponding information and wait for it to finish
 ![image](https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/fa990768-da53-428c-a95e-3bb384632cdc)
 
-**提示：文件名不能以阿拉伯数字打头 Tip: File names cannot start with Arabic digits**
+**提示：文件名不能以阿拉伯数字打头   
+Tip: File names cannot start with Arabic digits**
 ------
 ## 下载 Download  
 123网盘：[点此以打开](https://www.123pan.com/s/ICnzVv-PYagh.html) 提取码:vfXg  
