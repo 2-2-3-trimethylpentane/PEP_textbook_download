@@ -25,8 +25,9 @@ The ID, check code ("校验码"), etc. are shown in the figure
 ![SHMAD1GO{~DOCQ 2DWH$~ 5](https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/6528c3b5-eff4-4aaf-8cc8-9354939e0d73)
 
 6.打开程序，输入对应信息并等待完成  
-Open the program, enter the corresponding information and wait for it to finish
-![image](https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/fa990768-da53-428c-a95e-3bb384632cdc)
+Open the program, enter the corresponding information and wait for it to finish  
+![image](https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/a04f2342-5a4b-48d3-a58c-3339ce486c10)![image](https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/602a80a6-1c1b-4d6b-95b1-8addebbd63be)
+
 
 **提示：文件名不能以阿拉伯数字打头   
 Tip: File names cannot start with Arabic digits**
