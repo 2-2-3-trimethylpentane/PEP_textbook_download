@@ -1,7 +1,8 @@
 # PEP_textbook_download
 这是一个用于人教社课本下载的项目。  
 This is a program used in textbooks pep download.  
-
+**推荐使用2.0版  
+Recommend using 2.0 version**  
 **语言：简体中文   
 language:Simplified Chinese**  
 ## How to use?如何使用？（此处以下载九下化学课本为例）
@@ -35,4 +36,5 @@ Tip: File names cannot start with Arabic digits**
 ## 下载 Download  
 123网盘：[点此以打开](https://www.123pan.com/s/ICnzVv-PYagh.html) 提取码:vfXg  
 暮希云盘：[点此以打开](https://pan.xiaomuxi.cn/s/YeWhz)  
-抗揍云：[点此以打开](https://wwzm.lanzouj.com/b04k9u05e) 提取码:g3uf  
+抗揍云：[点此以打开(v1.0)](https://wwzm.lanzouj.com/b04kaaqzg)] 提取码:1j53  
+[点此以打开(v2.0)](https://wwzm.lanzouj.com/b04kaar2j)提取码:2fgc
