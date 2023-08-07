@@ -37,4 +37,11 @@ Tip: File names cannot start with Arabic digits**
 123网盘：[点此以打开](https://www.123pan.com/s/ICnzVv-PYagh.html) 提取码:vfXg  
 暮希云盘：[点此以打开](https://pan.xiaomuxi.cn/s/YeWhz)  
 抗揍云：[点此以打开(v1.0)](https://wwzm.lanzouj.com/b04kaaqzg)] 提取码:1j53  
-[点此以打开(v2.0)](https://wwzm.lanzouj.com/b04kaar2j)提取码:2fgc
+[点此以打开(v2.0)](https://wwzm.lanzouj.com/b04kaar2j)提取码:2fgc  
+## 更新日志 Changelog    
+# version 2.0     
+优化了使用体验，用户交互界面从命令行窗口改为了基于Tkinker的对话框，省去了使用后需要手动删除“images”文件夹的步骤，PDF文件改为在与程序同一路径生成  
+We have enhanced the user experience by transitioning from a command-line interface to a dialog box based on Tkinter. This eliminates the need for manually deleting the "images" folder after usage. Additionally, PDF files are now generated in the same directory as the program itself for added convenience.    
+# version 1.0  
+本python项目基于requests、Pillow等库，可以自动下载图片文件并生成PDF文件，使用后需删除“images”文件夹内所有的图片文件  
+This Python project is built upon libraries such as requests and Pillow. It has the capability to automatically download image files and generate PDF files. However, it is important to note that after usage, all image files within the "images" folder should be deleted manually.
