@@ -40,6 +40,7 @@ Tip: File names cannot start with Arabic digits**
 暮希云盘：[点此以打开](https://pan.xiaomuxi.cn/s/YeWhz)  
 抗揍云：[点此以打开(v1.0)](https://wwzm.lanzouj.com/b04kaaqzg)] 提取码:1j53  
 [点此以打开(v2.0)](https://wwzm.lanzouj.com/b04kaar2j)提取码:2fgc  
+[点此以打开(v2.1)](https://wwzm.lanzouj.com/b04kaxcsd)提取码:cr91
 ## 更新日志 Changelog    
 # version 2.1      
 优化了使用体验，调用了文件资源管理器来选择PDF文件的路径，也为后续的另一个分支做准备  
