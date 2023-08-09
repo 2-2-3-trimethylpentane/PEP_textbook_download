@@ -1,8 +1,10 @@
 # PEP_textbook_download
 这是一个用于人教社课本下载的项目。  
 This is a program used in textbooks pep download.  
-**推荐使用2.0版  
-Recommend using 2.0 version**  
+作者在GitHub仅提供源码，下载文件请点击下方的下载栏提供的网盘链接  
+The author has chosen to provide only the source code on GitHub. To download the files, please click on the provided cloud storage link in the download section below.  
+**推荐使用2.1版  
+Recommend using 2.1 version**  
 **语言：简体中文   
 language:Simplified Chinese**  
 ## How to use?如何使用？（此处以下载九下化学课本为例）
@@ -39,6 +41,9 @@ Tip: File names cannot start with Arabic digits**
 抗揍云：[点此以打开(v1.0)](https://wwzm.lanzouj.com/b04kaaqzg)] 提取码:1j53  
 [点此以打开(v2.0)](https://wwzm.lanzouj.com/b04kaar2j)提取码:2fgc  
 ## 更新日志 Changelog    
+# version 2.1      
+优化了使用体验，调用了文件资源管理器来选择PDF文件的路径，也为后续的另一个分支做准备  
+We have further improved the user experience by implementing "explorer" to select the path for the PDF file. This enhancement also sets the stage for a potential future branch of development.
 # version 2.0     
 优化了使用体验，用户交互界面从命令行窗口改为了基于Tkinker的对话框，省去了使用后需要手动删除“images”文件夹的步骤，PDF文件改为在与程序同一路径生成  
 We have enhanced the user experience by transitioning from a command-line interface to a dialog box based on Tkinter. This eliminates the need for manually deleting the "images" folder after usage. Additionally, PDF files are now generated in the same directory as the program itself for added convenience.    
