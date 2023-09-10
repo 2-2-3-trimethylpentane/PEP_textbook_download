@@ -1,7 +1,7 @@
 # PEP_textbook_download
 这是一个用于人教社课本下载的项目。  
 This is a program used in textbooks pep download.  
-作者在GitHub仅提供源码，下载文件请点击下方的下载栏提供的网盘链接  
+作者在GitHub仅提供源码，下载文件请点击下方的下载栏提供的网盘链接[跳转至下载栏](https://github.com/lueduodezhe/PEP_textbook_download#%E4%B8%8B%E8%BD%BD-download)  
 The author has chosen to provide only the source code on GitHub. To download the files, please click on the provided cloud storage link in the download section below.  
 **推荐使用2.1版  
 Recommend using 2.1 version**  
