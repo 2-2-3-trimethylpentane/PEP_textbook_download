@@ -84,7 +84,7 @@ def start_conversion():
             convert_to_pdf(pdf_path)
     except Exception as e:
         messagebox.showinfo("错误", f"发生错误：{str(e)}")
-    os.system('taskkill /im PEP_textbook_download-v2.2.exe')
+    sys.exit()
 
 # 创建窗口
 window = tk.Tk()
