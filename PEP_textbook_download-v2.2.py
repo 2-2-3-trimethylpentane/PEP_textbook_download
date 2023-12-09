@@ -6,6 +6,7 @@ from tkinter import ttk
 from tkinter import messagebox
 from tkinter import filedialog
 import shutil
+import sys
 
 def download_images(page, ID, code):
     # 新建文件夹用于保存图片
@@ -50,12 +51,14 @@ def convert_to_pdf(pdf_path):
     if image_list:
         image_list[0].save(pdf_path, save_all=True, append_images=image_list[1:])
         messagebox.showinfo("完成", "PDF 文件已生成。")
+        sys.exit()
 
         # 删除保存图片的目录
         os.chdir("..")
         shutil.rmtree("images")
     else:
         messagebox.showinfo("错误", "没有找到要处理的图像文件。")
+        sys.exit()
 
 
 def start_conversion():
