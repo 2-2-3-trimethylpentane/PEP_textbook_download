@@ -3,7 +3,7 @@
 This is a program used in textbooks pep download.  
 作者在GitHub仅提供源码，下载文件请点击下方的下载栏提供的网盘链接[跳转至下载栏](https://github.com/lueduodezhe/PEP_textbook_download#%E4%B8%8B%E8%BD%BD-download)  
 The author has chosen to provide only the source code on GitHub. To download the files, please click on the provided cloud storage link in the download section below [or click here](https://github.com/lueduodezhe/PEP_textbook_download#%E4%B8%8B%E8%BD%BD-download)  
-.  
+。  
 **推荐使用2.1版  
 Recommend using 2.1 version**  
 **语言：简体中文   
@@ -44,8 +44,8 @@ Tip: File names cannot start with Arabic digits**
 [点此以打开(v2.1)](https://wwzm.lanzouj.com/b04kaxcsd)提取码:cr91
 ## 更新日志 Changelog    
 # version 2.2
-修复了程序运行结束后会在后台静默运行的bug，需要注意的是，使用本版本的可执行文件版时，不能将其重命名。还改进了保存文件提示框的一个小细节。	
-The bug that caused the program to continue running in the background after it has completed has been fixed. It is important to note that when using the executable version included in this release, renaming the file may cause issues. Additionally, a minor detail regarding the save file prompt has been improved.
+修复了程序运行结束后会在后台静默运行的bug。还改进了保存文件提示框的一个小细节。	   
+The bug that caused the program to continue running in the background after it has completed has been fixed.. Additionally, a minor detail regarding the save file prompt has been improved.    
 # version 2.1      
 优化了使用体验，调用了文件资源管理器来选择PDF文件的路径，也为后续的另一个分支做准备  
 We have further improved the user experience by implementing "explorer" to select the path for the PDF file. This enhancement also sets the stage for a potential future branch of development.
