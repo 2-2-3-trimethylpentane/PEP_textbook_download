@@ -39,10 +39,11 @@ Tip: File names cannot start with Arabic digits**
 ## 下载 Download  
 123网盘：[点此以打开](https://www.123pan.com/s/ICnzVv-PYagh.html) 提取码:vfXg  
 暮希云盘：[点此以打开](https://pan.xiaomuxi.cn/s/YeWhz)  
-抗揍云：[点此以打开(v1.0)](https://wwzm.lanzouj.com/b04kaaqzg)] 提取码:1j53  
-[点此以打开(v2.0)](https://wwzm.lanzouj.com/b04kaar2j)提取码:2fgc  
-[点此以打开(v2.1)](https://wwzm.lanzouj.com/b04kaxcsd)提取码:cr91
+
 ## 更新日志 Changelog    
+# version 2.3    
+在程序主页面添加了“帮助”与“打开对应网站”的按钮，提高了程序稳定性，修复了部分漏洞，添加了程序图标。    
+We have incorporated "Help" and "Open Corresponding Website" buttons on the main interface, which not only enhance the stability of the program but also address certain vulnerabilities that were identified. Additionally, a program icon has been included to further enhance the visual appeal.    
 # version 2.2
 修复了程序运行结束后会在后台静默运行的bug。还改进了保存文件提示框的一个小细节。	   
 The bug that caused the program to continue running in the background after it has completed has been fixed.. Additionally, a minor detail regarding the save file prompt has been improved.    
