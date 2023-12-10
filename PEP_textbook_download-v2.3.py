@@ -7,6 +7,13 @@ from tkinter import messagebox
 from tkinter import filedialog
 import shutil
 import sys
+import webbrowser
+
+def open_github_site():
+    webbrowser.open("https://github.com/lueduodezhe/PEP_textbook_download")
+
+def open_web():
+    webbrowser.open("https://jc.pep.com.cn/")
 
 def download_images(page, ID, code):
     # 新建文件夹用于保存图片
@@ -75,7 +82,7 @@ def convert_to_pdf(pdf_path):
 
 
     else:
-        messagebox.showinfo("错误", "没有找到要处理的图像文件。")
+        messagebox.showerror("错误", "没有找到要处理的图像文件。")
         sys.exit()
 
 
@@ -103,7 +110,7 @@ def start_conversion():
 
             
     except Exception as e:
-        messagebox.showinfo("错误", f"发生错误：{str(e)}")
+        messagebox.showerror("错误", f"发生错误：{str(e)}")
 
 
 # 创建窗口
@@ -111,24 +118,33 @@ window = tk.Tk()
 window.title("请输入")
 
 # 添加标签和输入框
+label = tk.Label(window, text='请输入以下信息(Ctrl+C:复制,Ctrl+V:粘贴)')
+label.grid(row=0, column=0, padx=5, pady=5)
+
 label_page = tk.Label(window, text="页数:")
-label_page.grid(row=0, column=0, padx=5, pady=5)
+label_page.grid(row=1, column=0, padx=5, pady=5)
 entry_page = tk.Entry(window)
-entry_page.grid(row=0, column=1, padx=5, pady=5)
+entry_page.grid(row=1, column=1, padx=10, pady=5)
 
 label_ID = tk.Label(window, text="网站ID:")
-label_ID.grid(row=1, column=0, padx=5, pady=5)
+label_ID.grid(row=2, column=0, padx=5, pady=5)
 entry_ID = tk.Entry(window)
-entry_ID.grid(row=1, column=1, padx=5, pady=5)
+entry_ID.grid(row=2, column=1, padx=10, pady=5)
 
 label_code = tk.Label(window, text="校验码:")
-label_code.grid(row=2, column=0, padx=5, pady=5)
+label_code.grid(row=3, column=0, padx=5, pady=5)
 entry_code = tk.Entry(window)
-entry_code.grid(row=2, column=1, padx=5, pady=5)
+entry_code.grid(row=3, column=1, padx=10, pady=5)
 
 # 添加按钮
 convert_button = tk.Button(window, text="开始操作", command=start_conversion)
 convert_button.grid(row=4, column=0, columnspan=2, pady=10)
+
+open_web_botton = tk.Button(window, text="打开网站", command=open_web)
+open_web_botton.grid(row=5, column=0, columnspan=1, pady=10)
+
+open_github_site_botton = tk.Button(window,text="帮助",command=open_github_site)
+open_github_site_botton.grid(row=5, column=1, columnspan=2, pady=10)
 
 # 运行窗口主循环
 window.mainloop()
