@@ -1,5 +1,5 @@
 # PEP_textbook_download
-这是一个用于人教社课本下载的项目。  
+这是一个用于部分冷门课本下载的项目。  
 This is a program used in textbooks pep download.  
 作者在GitHub仅提供源码，下载文件请点击下方的下载栏提供的网盘链接[跳转至下载栏](https://github.com/lueduodezhe/PEP_textbook_download#%E4%B8%8B%E8%BD%BD-download)  
 The author has chosen to provide only the source code on GitHub. To download the files, please click on the provided cloud storage link in the download section below [or click here](https://github.com/lueduodezhe/PEP_textbook_download#%E4%B8%8B%E8%BD%BD-download)  
@@ -9,31 +9,24 @@ The author has chosen to provide only the source code on GitHub. To download the
 language:Simplified Chinese**  
 ## How to use?如何使用？（此处以下载九下化学课本为例）
 **（需要搭配浏览器自带的DEV tools完成操作 Complete the operation with the DEV tools provided with the browser）**   
-1.打开以下网站 https://jc.pep.com.cn/  
-Open the following website https://jc.pep.com.cn/  
-<img width="960" alt="image" src="https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/4de369d0-b32c-4399-8cd6-00c138183c1a">  
+1.打开以下网站 http://www.nmketang.com/
+Open the following website http://www.nmketang.com/  
+![image](https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/002568b3-c98c-441f-992b-af4ce90c5aa0)
+  
 2.选择教材    
 Choose a textbook  
-3.新建一个标签页，右键点击检查（审查元素），找到“网络（Network）”     
-Create a new TAB, right click Check (censor element), and find "Network"  
-4.单击任意一个JPG文件  
-Click any JPG file  
-
-
-https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/3d063286-cbce-4dc0-9404-f011f395fb3e
-
-
-5.ID、校验码等如图所示  
+3.右键图像，点击“在新标签页中打开图像”  
+Right-click on the image, and select "Open Image in New Tab".
+![image](https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/4b9171b0-11da-428f-b18c-12bf0765daaa)  
+4.ID、校验码等如图所示  
 The ID, check code ("校验码"), etc. are shown in the figure  
 ![SHMAD1GO{~DOCQ 2DWH$~ 5](https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/6528c3b5-eff4-4aaf-8cc8-9354939e0d73)
 
-6.打开程序，输入对应信息并等待完成  
+5.打开程序，输入对应信息并等待完成  
 Open the program, enter the corresponding information and wait for it to finish  
-![image](https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/a04f2342-5a4b-48d3-a58c-3339ce486c10)![image](https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/602a80a6-1c1b-4d6b-95b1-8addebbd63be)
 
 
-**提示：文件名不能以阿拉伯数字打头   
-Tip: File names cannot start with Arabic digits**
+
 ------
 ## 下载 Download  
 123网盘：[点此以打开](https://www.123pan.com/s/ICnzVv-PYagh.html) 提取码:vfXg  
