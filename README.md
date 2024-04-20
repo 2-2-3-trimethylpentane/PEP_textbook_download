@@ -25,6 +25,7 @@ The ID, check code ("校验码"), etc. are shown in the figure
 
 5.打开程序，输入对应信息并等待完成  
 Open the program, enter the corresponding information and wait for it to finish  
+![image](https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/cb1d7537-a508-472f-99e6-ceb9e9603a00)
 
 
 
