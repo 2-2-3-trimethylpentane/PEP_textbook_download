@@ -1,8 +1,14 @@
 # PEP_textbook_download
-这是一个用于人教社课本下载的项目。  
-This is a program used in textbooks pep download.  
-作者在GitHub仅提供源码，下载文件请点击下方的下载栏提供的网盘链接[跳转至下载栏](https://github.com/lueduodezhe/PEP_textbook_download#%E4%B8%8B%E8%BD%BD-download)  
-The author has chosen to provide only the source code on GitHub. To download the files, please click on the provided cloud storage link in the download section below [or click here](https://github.com/lueduodezhe/PEP_textbook_download#%E4%B8%8B%E8%BD%BD-download)  
+这是一个用于人教社课本下载的项目。 
+This is a program used in textbooks PEP(People's Education Press) download.  
+## ⚠️注意 Caution  
+> [!WARNING]
+> 本软件仅供学习与交流用途，严禁将本软件及其产物于其它用途使用！如下载并安装此软件，将自动视为你接受此提示！    
+> This software is for learning and communication purposes only. It is strictly prohibited to use this software and its products for any other purposes! By downloading and installing this software, you are automatically deemed to accept this notice.  
+
+> [!IMPORTANT]
+> 作者在GitHub仅提供源码，下载文件请点击下方的下载栏提供的网盘链接[跳转至下载栏](https://github.com/lueduodezhe/PEP_textbook_download#%E4%B8%8B%E8%BD%BD-download)  
+> The author has chosen to provide only the source code on GitHub. To download the files, please click on the provided cloud storage link in the download section below [or click here](https://github.com/lueduodezhe/PEP_textbook_download#%E4%B8%8B%E8%BD%BD-download)  
 。  
  
 **语言：简体中文   
@@ -11,7 +17,7 @@ language:Simplified Chinese**
 **（需要搭配浏览器自带的DEV tools完成操作 Complete the operation with the DEV tools provided with the browser）**   
 1.打开以下网站 https://jc.pep.com.cn/  
 Open the following website https://jc.pep.com.cn/  
-<img width="960" alt="image" src="https://github.com/lueduodezhe/PEP_textbook_download/assets/141403762/4de369d0-b32c-4399-8cd6-00c138183c1a">  
+<img width="960" alt="image" src="https://bgithub.xyz/lueduodezhe/PEP_textbook_download/assets/141403762/4de369d0-b32c-4399-8cd6-00c138183c1a">  
 2.选择教材    
 Choose a textbook  
 3.新建一个标签页，右键点击检查（审查元素），找到“网络（Network）”     
