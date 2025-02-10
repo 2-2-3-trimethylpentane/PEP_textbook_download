@@ -1,6 +1,6 @@
 # PEP_textbook_download
 这是一个用于人教社课本下载的项目。 
-This is a program used in textbooks PEP(People's Education Press) download.  
+This is a program used in PEP(People's Education Press) textbooks download.  
 ## ⚠️注意 Caution  
 > [!WARNING]
 > 本软件仅供学习与交流用途，严禁将本软件及其产物于其它用途使用！如下载并安装此软件，将自动视为你接受此提示！    
